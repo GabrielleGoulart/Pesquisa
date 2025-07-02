@@ -1,0 +1,35 @@
+Integração de Testes de Sistema:
+
+5. Estratégia de Teste
+Tipo de teste:  
+Para um sistema de assistência técnica, a combinação de teste manual e automatizado é a estratégia mais eficaz, teste automatizado para a validação de
+campos rigorosa e repetitiva, testes de regressão de APIs e fluxos críticos no Frontend. O teste manual para avaliar a usabilidade, testar cenários
+complexos que são difíceis de automatizar, realizar testes exploratórios e validar a experiência completa do usuário.
+
+Técnicas utilizadas:
+  Teste de Caixa Branca: Envolve o conhecimento da estrutura interna e do código do sistema.
+  Teste de Usabilidade: Avalia a facilidade com que os usuários podem aprender e operar o sistema para atingir objetivos específicos.
+  Teste de Performance: Avalia a velocidade, capacidade de resposta e estabilidade do sistema sob uma carga de trabalho específica.
+
+Ferramentas:
+Java, Git, Spring Boot, Vscode, IntelliJ IDEA, Maven, JUnit 5(Testagem) - (Backend)
+JavaScript, Git, HTML, Css, Cypress(Testagem), Windows 11 - (Frontend)
+API (HTTP REST)
+
+
+
+6. Ambiente de Teste:
+Sistema Operacional: Windows 11
+MySQL 8.0 e até mesmo o Backend (Spring Boot) para isolamento.
+JDK (Java Development Kit): Para o Spring Boot.
+Node.js: Para o React.
+IDEs/Editores: IntelliJ IDEA e VS Code.
+
+
+
+
+
+
+
+
+
